@@ -1,0 +1,11 @@
+src
+===
+
+.. toctree::
+   :maxdepth: 4
+
+   data_processing
+   foo
+   generate_results
+   main
+   subrou

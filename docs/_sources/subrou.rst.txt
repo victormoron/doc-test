@@ -1,0 +1,21 @@
+subrou package
+==============
+
+Submodules
+----------
+
+subrou.test module
+------------------
+
+.. automodule:: subrou.test
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: subrou
+   :members:
+   :undoc-members:
+   :show-inheritance:

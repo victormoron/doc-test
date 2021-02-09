@@ -1,0 +1,7 @@
+generate\_results module
+========================
+
+.. automodule:: generate_results
+   :members:
+   :undoc-members:
+   :show-inheritance:
